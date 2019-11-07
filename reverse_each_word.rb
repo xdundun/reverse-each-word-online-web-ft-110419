@@ -7,3 +7,4 @@ def reverse_each_word(sentence)
   end
   return sentence_reverse
 end
+end
