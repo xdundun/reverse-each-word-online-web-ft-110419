@@ -3,7 +3,7 @@ def reverse_each_word(sentence)
   counter = 0
   sentence.each do {
     sentence_reverse = sentence
-    counter +=1
+    counter += 1
   }
   end
   return sentence_reverse
